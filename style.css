@@ -519,4 +519,9 @@ hr {
   #about {
     padding-top: 30px;
   }
+  .logo {
+    margin-top: -23px;
+    width: 200px;
+    margin-left: -70px;
+  }
 }
